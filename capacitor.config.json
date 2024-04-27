@@ -1,0 +1,11 @@
+{
+  "appId": "com.capacit.ar",
+  "appName": "capacitar_app",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
